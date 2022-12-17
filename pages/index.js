@@ -14,6 +14,7 @@ export default function Home() {
       <Flex
         height={"100vh"}
         backgroundImage={"background.png"}
+        backgroundColor={"#020204"}
         backgroundSize={"cover"}
         fontFamily={"Inter, sans-serif"}
         color={"white"}
